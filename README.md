@@ -1,8 +1,8 @@
-The ND Memory Game
+##The ND Memory Game
 - by Jillian Montalvo & Camilla Tassi
 
 To run the program, run:
-	python2.6 memory.py
+	```python2.6 memory.py```
 
 After the command is run, the menu screen will open displaying the three options: Join, Host, or Quit Game. Using the arrow keys and enter key, choose "Host Game" if you'll be hosting the game and "Join Game" to join it. Because this is a two player game, only one person can host and only one can join per session. In addition, you cannot join a game if one isn't being hosted.
 
